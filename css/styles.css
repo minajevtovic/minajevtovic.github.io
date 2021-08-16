@@ -41,7 +41,7 @@
   --bs-danger: #F490E8;
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
-  --bs-primary-rgb: 247, 225, 222;
+  --bs-primary-rgb: 250, 225, 222; 	
   --bs-secondary-rgb: 108, 117, 125;
   --bs-third-rgb: 114, 0, 38;
   --bs-success-rgb: 106, 2, 32;
@@ -4469,6 +4469,7 @@ textarea.form-control-lg {
   color: rgba(0, 0, 0, 0.9);
 }
 
+ /*THIS IS IMPORTANT FOR SIDE BAR COLOURS*/
 .navbar-dark .navbar-brand {
   color: #fff;
 }
