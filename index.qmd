@@ -1,0 +1,44 @@
+---
+title: "Mina Jevtović" # if using a built-in template, this title appears under your photo
+image: mina.jpeg # great spot for your professional headshot :) 
+about: 
+  template: trestles # see other templates at https://quarto.org/docs/websites/website-about.html#templates
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - icon: linkedin # you'll need to the fontawesome extension to include icons: https://github.com/quarto-ext/fontawesome
+      text: LinkedIn
+      href: https://www.linkedin.com/in/mina-jevtovi%C4%87-ph-d-8ab1695a/
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/minajevtovic
+    - icon: github
+      text: GitHub
+      href: https://github.com/minajevtovic
+    - icon: envelope
+      text: Email
+      href: mailto:m.jevtovic@bcbl.eu
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/channel/UCSK4rIJ9_6wa9cfH4NKjGLw
+    - icon: google
+      text: Scholar
+      href: https://scholar.google.com/citations?user=kVe9b7AAAAAJ&hl
+---
+
+#### Hi! Salut ! ¡Hola! Здраво!
+
+I am a Postdoctoral researcher at the <a href="https://www.bcbl.eu/en" style="text-decoration:none;">Basque Center on Cognition, Brain and Language (BCBL)</a> in Spain, interested in spoken and written language processing in monolingual and multilingual populations. I love reading, stats and learning new languages and feel quite fortunate that my everyday job combines these three passions! If you share the same interests (or just want to chat about them) feel free to get in touch!
+
+#### `r icons::fontawesome("brain")` Research interests
+
+-   data analysis
+-   Bayesian modelling
+-   spoken and written language processing
+-   multilingualism
+
+#### `r icons::fontawesome("graduation-cap")` Education
+
+-   PhD in Cognitive Neuroscience, BCBL, Spain
+-   MSc in Cognitive Neuroscience of Language, BCBL, Spain
+-   BSc in Psychology, University of Belgrade, Serbia

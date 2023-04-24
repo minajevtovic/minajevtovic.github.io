@@ -1,0 +1,38 @@
+project:
+  type: website
+
+website:
+  title: "Mina Jevtović"
+  favicon: mj4.png
+  navbar:
+    right:
+      - href: index.qmd
+        text: home
+      - publications.qmd
+      - presentations.qmd
+      - resources.qmd
+      - href: https://minajevtovic.github.io/PhD_thesis/
+        text: PhD thesis
+      - href: CV/MinaCV.pdf
+        text: cv
+        
+  page-footer: 
+    background: light
+    left: 
+      - "Made in Quarto | Copyright 2023, Mina Jevtović"
+    right: 
+      - icon: github
+        href: https://github.com/minajevtovic
+      - icon: twitter
+        href: https://twitter.com/minajevtovic
+
+format:
+  html:
+    link-external-newwindow: true
+    theme: 
+      - mystyles.scss
+    css: mystyles.scss
+    mainfont: Nunito
+
+editor: visual
+
