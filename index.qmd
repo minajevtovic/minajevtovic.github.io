@@ -1,6 +1,6 @@
 ---
 title: "Mina Jevtović" # if using a built-in template, this title appears under your photo
-image: mina.jpeg # great spot for your professional headshot :) 
+image: headshot2.jpeg # great spot for your professional headshot :) 
 about: 
   template: trestles # see other templates at https://quarto.org/docs/websites/website-about.html#templates
   image-shape: rounded
