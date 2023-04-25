@@ -7,8 +7,7 @@ website:
   favicon: mj4.png
   navbar:
     right:
-      - href: index.qmd
-        text: home
+
       - publications.qmd
       - presentations.qmd
       - resources.qmd

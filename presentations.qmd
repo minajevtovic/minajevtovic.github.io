@@ -2,36 +2,32 @@
 title: "presentations"
 ---
 
-### Oral
+### oral
 
-**Jevtović, M.**, Antzaka, A., & Martin, C.D. (2022). How would you spell it? A cross-linguistic investigation of the role of orthography in auditory word learning | 22nd meeting of the European Society for Cognitive Psychology (ESCoP), Lille, France.
+**Jevtović, M.**, Antzaka, A., & Martin, C.D. (2022). How would you spell it? A cross-linguistic investigation of the role of orthography in auditory word learning \| 22nd meeting of the European Society for Cognitive Psychology (ESCoP), Lille, France.
 
-Stoehr, A., **Jevtović, M.**, de Bruin, A., & Martin, C. D. (2022). Regressive phonological transfer in early bilingual Spanish-Basque learners of English | 12th International Conference on Third Language Acquisition and Multilingualism, Zagreb, Croatia.
+Stoehr, A., **Jevtović, M.**, de Bruin, A., & Martin, C. D. (2022). Regressive phonological transfer in early bilingual Spanish-Basque learners of English \| 12th International Conference on Third Language Acquisition and Multilingualism, Zagreb, Croatia.
 
-Stoehr, A., **Jevtović, M.**, de Bruin, A., & Martin, C. D. (2022). L3-to-L2 versus L3-to-L1 transfer in Spanish-Basque-English trilinguals: Evidence from phonetics and the lexicon | 4th International Symposium on Bilingual and L2 Processing in Adults and Children, Tromsø, Norway.
+Stoehr, A., **Jevtović, M.**, de Bruin, A., & Martin, C. D. (2022). L3-to-L2 versus L3-to-L1 transfer in Spanish-Basque-English trilinguals: Evidence from phonetics and the lexicon \| 4th International Symposium on Bilingual and L2 Processing in Adults and Children, Tromsø, Norway.
 
-**Jevtović, M.**, Stoehr, A., Klimovich-Gray, A., Antzaka, A., & Martin, C.D. (2021). The impact of phoneme-to-grapheme consistency on the production and perception of speech sounds in early Spanish readers | Oral presentation at the International Child Phonology Conference (ICPC2021), Virtual Conference.<br>
-`r icons::fontawesome("trophy")` Awarded the Excellent Student Oral Presentation Award <br>
-`r icons::fontawesome("film")` <a href="https://www.youtube.com/watch?v=dtlez9Tm8Zo&t=1s" style="text-decoration:none;">See the talk</a>
+**Jevtović, M.**, Stoehr, A., Klimovich-Gray, A., Antzaka, A., & Martin, C.D. (2021). The impact of phoneme-to-grapheme consistency on the production and perception of speech sounds in early Spanish readers \| Oral presentation at the International Child Phonology Conference (ICPC2021), Virtual Conference.<br> `r icons::fontawesome("trophy")` Awarded the Excellent Student Oral Presentation Award <br> `r icons::fontawesome("film")` <a href="https://www.youtube.com/watch?v=dtlez9Tm8Zo&t=1s" style="text-decoration:none;">See the talk</a>
 
-**Jevtović, M.**, Thierry, G., Savić, A.M., & Ković, V. (2016). Shifting between two scripts analogous to shifting between the two languages: a case of Serbian bi-alphabetism | Oral presentation at the 6th UK Cognitive Linguistics Conference (UK-CLC2016), Bangor, UK.
+**Jevtović, M.**, Thierry, G., Savić, A.M., & Ković, V. (2016). Shifting between two scripts analogous to shifting between the two languages: a case of Serbian bi-alphabetism \| Oral presentation at the 6th UK Cognitive Linguistics Conference (UK-CLC2016), Bangor, UK.
 
-**Jevtović, M.**, & Damnjanović, K. (2016). Inhibition of content in syllogistic reasoning | Oral presentation at the 12th Alps-Adria Psychology Conference (AAPC16), Rijeka, Croatia.
+**Jevtović, M.**, & Damnjanović, K. (2016). Inhibition of content in syllogistic reasoning \| Oral presentation at the 12th Alps-Adria Psychology Conference (AAPC16), Rijeka, Croatia.
 
-### Poster
+### poster
 
-**Jevtović, M.**, Stoehr, A., Klimovich-Gray, A., Antzaka, A., & Martin, C.D. (2022). Early readers’ knowledge of phoneme-to-grapheme correspondences affects speech sound processing | Poster presentation at the First Interdisciplinary Workshop on Phonology and Dyslexia, San Sebastián, Spain.  <a href="files/Jevtovic_Phonology+Dyslexia-OCP_2022.pdf" style="text-decoration:none;">See the poster here</a>
+**Jevtović, M.**, Stoehr, A., Klimovich-Gray, A., Antzaka, A., & Martin, C.D. (2022). Early readers' knowledge of phoneme-to-grapheme correspondences affects speech sound processing \| Poster presentation at the First Interdisciplinary Workshop on Phonology and Dyslexia, San Sebastián, Spain. <a href="files/Jevtovic_Phonology+Dyslexia-OCP_2022.pdf" style="text-decoration:none;">See the poster here</a>
 
-**Jevtović, M.**, Antzaka, A., & Martin, C.D. (2021). Orthographic skeletons: Do we constantly create orthographic representations of newly acquired spoken words? | Poster presentation at the 28th Annual Meeting of the Society for the Scientific Study of Reading (SSSR2021), Lancaster, UK. <br>
-`r icons::fontawesome("film")` <a href="https://www.youtube.com/watch?v=du6mOR7TQGo&t=1s" style="text-decoration:none;">See the interactive poster here</a>
+**Jevtović, M.**, Antzaka, A., & Martin, C.D. (2021). Orthographic skeletons: Do we constantly create orthographic representations of newly acquired spoken words? \| Poster presentation at the 28th Annual Meeting of the Society for the Scientific Study of Reading (SSSR2021), Lancaster, UK. <br> `r icons::fontawesome("film")` <a href="https://www.youtube.com/watch?v=du6mOR7TQGo&t=1s" style="text-decoration:none;">See the interactive poster here</a>
 
-Antzaka, A., **Jevtović, M.**, & Martin, C.D. (July, 2021). Learning written words in a first language: Is there an influence of the orthographic system of the second language? | Poster presentation at the 28th Annual Meeting of the Society for the Scientific Study of Reading (SSSR2021), Lancaster, UK. <a href="files/Jevtovic_Phonology+Dyslexia-OCP_2022.pdf" style="text-decoration:none;">See the poster here</a>
+Antzaka, A., **Jevtović, M.**, & Martin, C.D. (July, 2021). Learning written words in a first language: Is there an influence of the orthographic system of the second language? \| Poster presentation at the 28th Annual Meeting of the Society for the Scientific Study of Reading (SSSR2021), Lancaster, UK. <a href="files/Jevtovic_Phonology+Dyslexia-OCP_2022.pdf" style="text-decoration:none;">See the poster here</a>
 
-**Jevtović, M.**, Stoehr, A., Antzaka, A., & Martin, C.D. (2020). The effects of orthographic consistency at different levels of speech processing in Spanish beginning readers| Poster presentation at the Cognitive Neuroscience Virtual Meeting, Davis, CA, USA.
- <a href="files/CNS_Jevtovic.pdf" style="text-decoration:none;">See the poster here</a>
+**Jevtović, M.**, Stoehr, A., Antzaka, A., & Martin, C.D. (2020). The effects of orthographic consistency at different levels of speech processing in Spanish beginning readers\| Poster presentation at the Cognitive Neuroscience Virtual Meeting, Davis, CA, USA. <a href="files/CNS_Jevtovic.pdf" style="text-decoration:none;">See the poster here</a>
 
-**Jevtović, M.**, Beesley, T., & Luque, D. (2019). Testing the automaticity of predictiveness-driven attention: The effect of task difficulty | Poster presentation at the 31st International Conference of the Spanish Society for Comparative Psychology (XIII SEPC), Málaga, Spain.  <a href="files/SEPC2019_Jevtovic.pdf" style="text-decoration:none;">See the poster here</a>
+**Jevtović, M.**, Beesley, T., & Luque, D. (2019). Testing the automaticity of predictiveness-driven attention: The effect of task difficulty \| Poster presentation at the 31st International Conference of the Spanish Society for Comparative Psychology (XIII SEPC), Málaga, Spain. <a href="files/SEPC2019_Jevtovic.pdf" style="text-decoration:none;">See the poster here</a>
 
-**Jevtović, M.**, Duñabeitia, J.A., & de Bruin, A. (2018). How do bilinguals switch between languages in different interactional contexts? | Poster presentation at the 11th Conference on Multilingualism (COM2018), Ghent, Belgium.  <a href="files/COM18poster_Jevtovic.pdf" style="text-decoration:none;">See the poster here</a>
+**Jevtović, M.**, Duñabeitia, J.A., & de Bruin, A. (2018). How do bilinguals switch between languages in different interactional contexts? \| Poster presentation at the 11th Conference on Multilingualism (COM2018), Ghent, Belgium. <a href="files/COM18poster_Jevtovic.pdf" style="text-decoration:none;">See the poster here</a>
 
-**Jevtović, M.**, Ković, V., & Thierry, G. (2017). Tug of war between top-down and bottom-up processing in bi-alphabetism | Poster presentation at the 23rd Architectures and Mechanisms of Language Processing Conference (AMLaP2017), Lancaster, UK. <a href="files/AMLaP2017.pdf" style="text-decoration:none;">See the poster here</a>
+**Jevtović, M.**, Ković, V., & Thierry, G. (2017). Tug of war between top-down and bottom-up processing in bi-alphabetism \| Poster presentation at the 23rd Architectures and Mechanisms of Language Processing Conference (AMLaP2017), Lancaster, UK. <a href="files/AMLaP2017.pdf" style="text-decoration:none;">See the poster here</a>
