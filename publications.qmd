@@ -2,24 +2,20 @@
 title: "publications"
 ---
 
- `r icons::academicons("osf")` Sharing is caring! All statistical and experimental scripts as well as stimuli and material I use in my studies are publicly available on my <a href="https://osf.io/7h9qv/" style="text-decoration:none;"> OSF page </a>
+{{< ai osf >}} Sharing is caring! All statistical and experimental scripts as well as stimuli and material I use in my studies are publicly available on my <a href="https://osf.io/7h9qv/" style="text-decoration:none;"> OSF page </a>
 
 #### 2023
 
-**Jevtović, M.**, Antzaka, A., & Martin, C. D. (2023). *Déjà-lu:* When orthographic representations are generated in the absence of orthography. *Journal of Cognition, 6*(1), 7. DOI: <a href="http://doi.org/10.5334/joc.250" style="text-decoration:none;"> doi.org/10.5334/joc.250 </a> <br>
-`r icons::academicons("open-data")` `r icons::academicons("open-materials")` <a href="https://osf.io/dmtn4/" target="_blank">Data and Code</a>
+**Jevtović, M.**, Antzaka, A., & Martin, C. D. (2023). *Déjà-lu:* When orthographic representations are generated in the absence of orthography. *Journal of Cognition, 6*(1), 7. DOI: <a href="http://doi.org/10.5334/joc.250" style="text-decoration:none;"> doi.org/10.5334/joc.250 </a> <br> {{< ai open-data >}} {{< ai open-materials >}} <a href="https://osf.io/dmtn4/" target="_blank">Data and Code</a>
 
 #### 2022
 
-**Jevtović, M.**, Stoehr, A., Klimovich-Gray, A., Antzaka, A., & Martin, C. D. (2022). One-to-one or one *too many*? Linking sound-to-letter mappings to speech sound perception and production in early readers. *Journal of Speech, Language, and Hearing Research, 65*(12), 4507-4519. DOI: <a href="doi:10.1044/2022_JSLHR-22-00131" style="text-decoration:none;"> 10.1044/2022_JSLHR-22-00131 </a> <br>
-`r icons::academicons("open-data")` `r icons::academicons("open-materials")` <a href="https://osf.io/k3nvx/" target="_blank">Data and Code</a>
+**Jevtović, M.**, Stoehr, A., Klimovich-Gray, A., Antzaka, A., & Martin, C. D. (2022). One-to-one or one *too many*? Linking sound-to-letter mappings to speech sound perception and production in early readers. *Journal of Speech, Language, and Hearing Research, 65*(12), 4507-4519. DOI: <a href="doi:10.1044/2022_JSLHR-22-00131" style="text-decoration:none;"> 10.1044/2022_JSLHR-22-00131 </a> <br> {{< ai open-data >}} {{< ai open-materials >}} <a href="https://osf.io/k3nvx/" target="_blank">Data and Code</a>
 
-**Jevtović, M.**, Antzaka, A., & Martin, C. D. (2022). Gepo with a G, or Jepo with a J? Skilled Readers Generate Orthographic Expectations for Novel Spoken Words Even When Spelling is Uncertain. *Cognitive science, 46*(3), e13118. DOI: <a href="https://doi.org/10.1111/cogs.13118" style="text-decoration:none;">10.1111/cogs.13118</a> <br>
-`r icons::academicons("open-data")` `r icons::academicons("open-materials")` <a href="https://osf.io/h69dg/" target="_blank">Data and Code</a>
+**Jevtović, M.**, Antzaka, A., & Martin, C. D. (2022). Gepo with a G, or Jepo with a J? Skilled Readers Generate Orthographic Expectations for Novel Spoken Words Even When Spelling is Uncertain. *Cognitive science, 46*(3), e13118. DOI: <a href="https://doi.org/10.1111/cogs.13118" style="text-decoration:none;">10.1111/cogs.13118</a> <br> {{< ai open-data >}} {{< ai open-materials >}} <a href="https://osf.io/h69dg/" target="_blank">Data and Code</a>
 
 Luque, D., Molinero, S., **Jevtović, M.**, & Beesley, T. (2020). Testing the automaticity of an attentional bias towards predictive cues in human associative learning. *Quarterly Journal of Experimental Psychology, 73*(5), 762-780. DOI: <a href="https://doi.org/10.1177/1747021819897590"target="_blank" style="text-decoration:none;">10.1177/1747021819897590</a>
 
 #### 2020
 
-**Jevtović, M.**, Duñabeitia, J.A., & de Bruin, A. (2020). How do bilinguals switch between languages in different interactional contexts? A comparison of voluntary and mandatory language switching. *Bilingualism: Language and Cognition, 23*(2), 401--413. DOI: <a href="https://doi.org/10.1017/S1366728919000191" target="_blank" style="text-decoration:none;">10.1017/S1366728919000191</a> <br>
-`r icons::academicons("open-data")` <a href="https://osf.io/pb59m/" target="_blank">Data and Code</a>
+**Jevtović, M.**, Duñabeitia, J.A., & de Bruin, A. (2020). How do bilinguals switch between languages in different interactional contexts? A comparison of voluntary and mandatory language switching. *Bilingualism: Language and Cognition, 23*(2), 401--413. DOI: <a href="https://doi.org/10.1017/S1366728919000191" target="_blank" style="text-decoration:none;">10.1017/S1366728919000191</a> <br> {{< ai open-data >}} <a href="https://osf.io/pb59m/" target="_blank">Data and Code</a>

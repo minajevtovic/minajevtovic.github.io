@@ -10,7 +10,7 @@ Stoehr, A., **Jevtović, M.**, de Bruin, A., & Martin, C. D. (2022). Regressive 
 
 Stoehr, A., **Jevtović, M.**, de Bruin, A., & Martin, C. D. (2022). L3-to-L2 versus L3-to-L1 transfer in Spanish-Basque-English trilinguals: Evidence from phonetics and the lexicon \| 4th International Symposium on Bilingual and L2 Processing in Adults and Children, Tromsø, Norway.
 
-**Jevtović, M.**, Stoehr, A., Klimovich-Gray, A., Antzaka, A., & Martin, C.D. (2021). The impact of phoneme-to-grapheme consistency on the production and perception of speech sounds in early Spanish readers \| Oral presentation at the International Child Phonology Conference (ICPC2021), Virtual Conference.<br> `r icons::fontawesome("trophy")` Awarded the Excellent Student Oral Presentation Award <br> `r icons::fontawesome("film")` <a href="https://www.youtube.com/watch?v=dtlez9Tm8Zo&t=1s" style="text-decoration:none;">See the talk</a>
+**Jevtović, M.**, Stoehr, A., Klimovich-Gray, A., Antzaka, A., & Martin, C.D. (2021). The impact of phoneme-to-grapheme consistency on the production and perception of speech sounds in early Spanish readers \| Oral presentation at the International Child Phonology Conference (ICPC2021), Virtual Conference.<br> {{< fa trophy >}} Awarded the Excellent Student Oral Presentation Award <br> {{< fa film >}} <a href="https://www.youtube.com/watch?v=dtlez9Tm8Zo&t=1s" style="text-decoration:none;">See the talk</a>
 
 **Jevtović, M.**, Thierry, G., Savić, A.M., & Ković, V. (2016). Shifting between two scripts analogous to shifting between the two languages: a case of Serbian bi-alphabetism \| Oral presentation at the 6th UK Cognitive Linguistics Conference (UK-CLC2016), Bangor, UK.
 
@@ -20,7 +20,7 @@ Stoehr, A., **Jevtović, M.**, de Bruin, A., & Martin, C. D. (2022). L3-to-L2 ve
 
 **Jevtović, M.**, Stoehr, A., Klimovich-Gray, A., Antzaka, A., & Martin, C.D. (2022). Early readers' knowledge of phoneme-to-grapheme correspondences affects speech sound processing \| Poster presentation at the First Interdisciplinary Workshop on Phonology and Dyslexia, San Sebastián, Spain. <a href="files/Jevtovic_Phonology+Dyslexia-OCP_2022.pdf" style="text-decoration:none;">See the poster here</a>
 
-**Jevtović, M.**, Antzaka, A., & Martin, C.D. (2021). Orthographic skeletons: Do we constantly create orthographic representations of newly acquired spoken words? \| Poster presentation at the 28th Annual Meeting of the Society for the Scientific Study of Reading (SSSR2021), Lancaster, UK. <br> `r icons::fontawesome("film")` <a href="https://www.youtube.com/watch?v=du6mOR7TQGo&t=1s" style="text-decoration:none;">See the interactive poster here</a>
+**Jevtović, M.**, Antzaka, A., & Martin, C.D. (2021). Orthographic skeletons: Do we constantly create orthographic representations of newly acquired spoken words? \| Poster presentation at the 28th Annual Meeting of the Society for the Scientific Study of Reading (SSSR2021), Lancaster, UK. <br> {{< fa film >}} <a href="https://www.youtube.com/watch?v=du6mOR7TQGo&t=1s" style="text-decoration:none;">See the interactive poster here</a>
 
 Antzaka, A., **Jevtović, M.**, & Martin, C.D. (July, 2021). Learning written words in a first language: Is there an influence of the orthographic system of the second language? \| Poster presentation at the 28th Annual Meeting of the Society for the Scientific Study of Reading (SSSR2021), Lancaster, UK. <a href="files/Jevtovic_Phonology+Dyslexia-OCP_2022.pdf" style="text-decoration:none;">See the poster here</a>
 

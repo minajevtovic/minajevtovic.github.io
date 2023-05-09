@@ -33,7 +33,7 @@ format:
       - mystyles.scss
     css: mystyles.scss
     mainfont: Nunito
+    fontsize: 14pt
 
 
 editor: visual
-

@@ -28,16 +28,16 @@ about:
 
 #### Hi! Salut ! ¡Hola! Здраво!
 
-I am a Postdoctoral researcher at the <a href="https://www.bcbl.eu/en" style="text-decoration:none;">Basque Center on Cognition, Brain and Language (BCBL)</a> in Spain, interested in spoken and written language processing in monolingual and multilingual populations. I love reading, stats and learning new languages and feel quite fortunate that my everyday job combines these three passions! If you share the same interests (or just want to chat about them) feel free to get in touch!
+I am a Postdoctoral researcher at the <a href="https://www.bcbl.eu/en" style="text-decoration:none;">Basque Center on Cognition, Brain and Language (BCBL)</a> in Spain, interested in spoken and written language processing in monolingual and multilingual populations. I love reading, stats and learning new languages and feel quite fortunate that my everyday job combines these three passions! If you share the same interests (or just want to chat about them) feel free to get in touch! 
 
-#### `r icons::fontawesome("brain")` Research interests
+#### {{< fa brain >}} Research interests
 
 -   data analysis
 -   Bayesian modelling
 -   spoken and written language processing
 -   multilingualism
 
-#### `r icons::fontawesome("graduation-cap")` Education
+#### {{< fa graduation-cap >}} Education
 
 -   PhD in Cognitive Neuroscience, BCBL, Spain
 -   MSc in Cognitive Neuroscience of Language, BCBL, Spain
