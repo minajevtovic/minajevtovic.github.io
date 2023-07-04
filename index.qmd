@@ -21,8 +21,11 @@ about:
     - icon: youtube
       text: YouTube
       href: https://www.youtube.com/channel/UCSK4rIJ9_6wa9cfH4NKjGLw
-    - icon: google
-      text: Scholar
+    - icon: flower3
+      text: OSF
+      href: https://osf.io/7h9qv/
+    - icon: mortarboard-fill
+      text: Google Scholar
       href: https://scholar.google.com/citations?user=kVe9b7AAAAAJ&hl
 ---
 
