@@ -4,7 +4,13 @@ title: "publications"
 
 {{< ai osf >}} Sharing is caring! All statistical and experimental scripts as well as stimuli and material I use in my studies are publicly available on my <a href="https://osf.io/7h9qv/" style="text-decoration:none;"> OSF page </a>
 
+#### In press
+
+Kapnoula, E.C., **Jevtović, M.**, & Magnuson J.S. (In Press). Spoken word recognition: A focus on plasticity. *Annual Review of Linguistics, 10.*
+
 #### 2023
+
+Stoehr, A., **Jevtović, M.**, de Bruin, A., & Martin, C. D. (2023). Phonetic and Lexical Crosslinguistic Influence in Early Spanish–Basque–English Trilinguals. *Language Learning*. DOI: <a href="https://doi.org/10.1111/lang.12598" style="text-decoration:none;"> doi.org/10.1111/lang.12598 </a>
 
 **Jevtović, M.**, Antzaka, A., & Martin, C. D. (2023). *Déjà-lu:* When orthographic representations are generated in the absence of orthography. *Journal of Cognition, 6*(1), 7. DOI: <a href="http://doi.org/10.5334/joc.250" style="text-decoration:none;"> doi.org/10.5334/joc.250 </a> <br> {{< ai open-data >}} {{< ai open-materials >}} <a href="https://osf.io/dmtn4/" target="_blank">Data and Code</a>
 
